@@ -1,18 +1,5 @@
 # C++
 
----
-language: c++
-filename: learncpp-fr.cpp
-contributors:
-    - ["Steven Basart", "http://github.com/xksteven"]
-    - ["Matt Kline", "https://github.com/mrkline"]
-    - ["Geoff Liu", "http://geoffliu.me"]
-    - ["Connor Waters", "http://github.com/connorwaters"]
-translators:
-    - ["Xuan-thi Nguyen", "http://github.com/mellenguyen"]
-lang: fr-fr
----
-
 C++ est un langage de programmation système qui,
 [selon son créateur Bjarne Stroustrup](http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Keynote),
 fut créé pour
